@@ -1,0 +1,36 @@
+.heading{
+    text-align: center;
+    margin-top: 30px;
+    background-image: url('./Asset/back1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+    font-size: large;
+    font-family: cursive;
+}
+.update{
+    border: 2px groove rgb(252, 244, 244);
+    height: 500px;
+    padding-top:50px;
+    width: 1500px !important;
+    border-radius: 5px;
+box-shadow: 5px 5px whitesmoke;
+    
+}
+#input{
+    width: 25%;
+    display: flex;
+}
+#button{
+    width: 25%;
+}
+.data{
+    text-align: center;
+    padding-left: 30px !important;
+}
+#img1{
+    margin-top: 50px;
+    height: 300px;
+    width:350px;
+    border-radius: 50px;
+}
